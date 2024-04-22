@@ -17,7 +17,7 @@ To run this application, you will need two instances of the program running simu
 
 2. In Terminal A, navigate to the directory where the chat application files are located and run: server.py
 
-3. In Terminal A, navigate to the directory where the chat application files are located and run: client.py
+3. In Terminal B, navigate to the directory where the chat application files are located and run: client.py
 
 4. Once both instances of the application are running, use the prompts to send messages or files.
 
